@@ -14,3 +14,5 @@ leeyoonjong
 > * Anything related to iOS (Swift etc.)
 > * Design
 > * Machine Learning
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeyoonjong)](https://github.com/anuraghazra/github-readme-stats)
