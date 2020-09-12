@@ -2,7 +2,7 @@ leeyoonjong
 ===========
 
 ### Kyunghee University (2017-) major in Computer Engineering
-##### ROKA 3rd Corps (2018-2019) served as Network operating/maintaing
+##### ROKA III Corps (2018-2019) served as Network operating/maintaing
 
 > #### What I am studing 👨🏻‍💻
 > * Front-end (React, RN)
@@ -13,6 +13,6 @@ leeyoonjong
 > * Server (Django)
 > * Anything related to iOS (Swift etc.)
 > * Design
-> * Machine Learning
+> * ML, NLP
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeyoonjong)](https://github.com/anuraghazra/github-readme-stats)
