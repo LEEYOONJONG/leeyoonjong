@@ -6,15 +6,13 @@ leeyoonjong
 ###### 2018 Open source Academy for Military - Mobile Application Course
 
 > #### What I am studing 👨🏻‍💻
-> * Front-end (React, RN)
 > * Javascript
 > * swift
 
 
 > #### What I am interested in 🤩
-> * Server (Django)
-> * Anything related to iOS (Swift etc.)
-> * Design
-> * ML, NLP
+> * Front-end (React)
+> * Anything related to Apple
+> * Design - UI/UX
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeyoonjong)](https://github.com/anuraghazra/github-readme-stats)
