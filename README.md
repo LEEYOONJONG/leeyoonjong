@@ -9,10 +9,8 @@ leeyoonjong
 > * Javascript
 > * swift
 
-
 > #### What I am interested in 🤩
-> * Front-end (React)
-> * Anything related to Apple
+> * Front-end (React) / iOS
 > * Design - UI/UX
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeyoonjong)](https://github.com/anuraghazra/github-readme-stats)
