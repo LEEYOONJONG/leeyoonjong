@@ -12,6 +12,6 @@ leeyoonjong
 > #### What I am interested in 🤩
 > * Front-end (React) / iOS
 > * Design - UI/UX
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyoonjong)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeyoonjong)](https://github.com/anuraghazra/github-readme-stats)
 
