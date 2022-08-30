@@ -6,7 +6,8 @@ leeyoonjong
 
 > #### What I am studing 👨🏻‍💻
 > * swift
-> at boostcamp web・mobile 7th
+> 
+> @ boostcamp web・mobile 7th
 
 > #### What I am interested in 🤩
 > * iOS / Front-end
