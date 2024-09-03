@@ -1,13 +1,8 @@
 leeyoonjong
 ===========
 
-### major in Computer Engineering
+@NAVER Cloud
 
-
-> #### What I am studing 👨🏻‍💻
-> * swift
-> 
-> @ boostcamp web・mobile 7th
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeyoonjong)](https://github.com/anuraghazra/github-readme-stats)
 
